@@ -7,3 +7,5 @@ dfdfdf
  
  ppdkl M	mail
  xml_error_string
+  xml_error_string
+  
